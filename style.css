@@ -25,6 +25,10 @@
 /* about section image css */
 .imageAboutPage {
 	width: 100%;
+	border-radius: 100%;
+}
+.about-description {
+	padding-top: 100px;
 }
 
 /* display background color black on navbar scroll */
@@ -37,7 +41,7 @@
 	font-size: 36px;
 	cursor: pointer;
 }
-.fa-facebook:hover, .fa-instagram:hover, .fa-twitter:hover, .fa-linkedin:hover, .fa-twitch:hover {
+.fa-github:hover, .fa-youtube:hover, .fa-twitter:hover, .fa-linkedin:hover {
 	color: #008000;
 }
 .fab {
